@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Comments: Settings for the FlexPendant.-->
+<FP>
+  <USER name="">
+    <DATA id="ViewInAuto">
+      <PROP name="text" value="PARAM_TXT_VIEWINAUTO" />
+      <PROP name="dll" value="TpsViewProductionWnd.dll" />
+      <PROP name="type" value="ABB.Robotics.Tps.Production.TpsViewProductionWnd" />
+    </DATA>
+    <DATA id="Programmable Key_1">
+      <PROP name="type" value="None" />
+      <PROP name="allowInAuto" value="No" />
+      <PROP name="pressed" value="" />
+      <PROP name="target" value="" />
+    </DATA>
+    <DATA id="UASViewLevel">
+      <PROP name="text" value="PARAM_TXT_UASVIEWLEVEL" />
+      <PROP name="level" value="Msg" />
+      <PROP name="type" value="" />
+    </DATA>
+    <DATA id="DefaultPath">
+      <PROP name="BackupRestore" value="" />
+    </DATA>
+    <DATA id="QuickSet">
+      <PROP name="IncrementToggle" value="Small" />
+    </DATA>
+    <DATA id="Programmable Key_2">
+      <PROP name="type" value="None" />
+      <PROP name="allowInAuto" value="No" />
+      <PROP name="pressed" value="" />
+      <PROP name="target" value="" />
+    </DATA>
+    <DATA id="ViewInManual">
+      <PROP name="text" value="PARAM_TXT_VIEWINMANUAL" />
+      <PROP name="dll" value="" />
+      <PROP name="type" value="" />
+    </DATA>
+    <DATA id="Program Editor">
+      <PROP name="HideDeclarations" value="False" />
+      <PROP name="ProgramPath" value="C:/Users/ufabc/Desktop/project_fdr/" />
+    </DATA>
+    <DATA id="UserSettings">
+      <PROP name="RapidEditorFontIndex" value="5" />
+    </DATA>
+    <DATA id="Show">
+      <PROP name="default" value="CtrlName" />
+    </DATA>
+    <DATA id="Programmable Key_3">
+      <PROP name="type" value="None" />
+      <PROP name="allowInAuto" value="No" />
+      <PROP name="pressed" value="" />
+      <PROP name="target" value="" />
+    </DATA>
+    <DATA id="AdditionalTestView">
+      <PROP name="TestView" value="" />
+    </DATA>
+    <DATA id="Programmable Key_4">
+      <PROP name="type" value="None" />
+      <PROP name="allowInAuto" value="No" />
+      <PROP name="pressed" value="" />
+      <PROP name="target" value="" />
+    </DATA>
+    <DATA id="ViewInManFull">
+      <PROP name="text" value="PARAM_TXT_VIEWINMANFULL" />
+      <PROP name="dll" value="" />
+      <PROP name="type" value="" />
+    </DATA>
+  </USER>
+</FP>
