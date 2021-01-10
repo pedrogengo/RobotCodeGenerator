@@ -3,6 +3,7 @@
 **Authors:**
 - Pedro Gabriel Gengo Lourenco
 - Gustavo Silva de Paula
+- Jhonatam Pinardi
 
 ## 1. Introduction
 
