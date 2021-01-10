@@ -1,8 +1,8 @@
 # Robotic Arm Code Generator
 
 **Authors:**
-- Pedro Gabriel Gengo Lourenco
-- Gustavo Silva de Paula
+- Pedro Gabriel Gengo Lourenco <a href="https://www.linkedin.com/in/pedrogengo/"><img align="center" alt="Pedro's LinkdeIN" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://github.com/pedrogengo"><img align="center" alt="Pedro's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a> 
+- Gustavo Silva de Paula <a href="https://www.linkedin.com/in/gustavosdepaula/"><img align="center" alt="Gustavo's LinkdeIN" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://github.com/gustavosdepaula"><img align="center" alt="Gustavo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 - Jhonatam Pinardi
 
 ## 1. Introduction
