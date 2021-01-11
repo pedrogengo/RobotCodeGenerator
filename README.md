@@ -45,18 +45,18 @@ In this step we used the potrace CLI to receive as input a bitmap image and retu
 
 Here we had the most challenging step because we need to understand the SVG sintax and create a code to transform this syntax into robotic syntax. One important concept to understand is the concept of path into a SVG. The path is a "code" which open and close a figure, so, in an image, we can had a lot of path, because our image is build of figures.
 
-So, the first step was to separate the paths to iterate over. After that we need to verify the commands and transform into robotic command. The upper case means absolute position and the lower case means relative position. Above, we had an explanation of SVG commands:
+So, the first step was to separate the paths to iterate over. After that we need to verify the commands and transform into robotic command. The upper case means absolute position and the lower case means relative position. Below, we had an explanation of SVG commands:
 
 - **L**: linear movement, using x and y coordinates;
 - **V**: vertical movement, only y;
 - **H**: Horizontal movement, only x; 
-- **C**: curve, using the bezier notation (we need to break this curve into data points, as you can see above);
+- **C**: curve, using the bezier notation (we need to break this curve into data points, as you can see below);
 - **M**: Move to another point, but without draw a line.
 
 ![Alt text](imgs/bezier_example.jpeg "Breaking bezier curve")
 *Breaking bezier curve*
 
-After this command transformation, we save the .mod code and share with the robot, to execute the drawing. Above, we can see a preview of the execution, using matplotlib:
+After this command transformation, we save the .mod code and share with the robot, to execute the drawing. Below, we can see a preview of the execution, using matplotlib:
 
 ![Alt text](imgs/execution_preview.PNG "execution_preview")
 *Execution Preview*
